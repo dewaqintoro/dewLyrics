@@ -1,0 +1,15 @@
+header{
+    padding: 30px;
+    height: 40vh;
+    width: 100vw;
+    border: none;
+    position: relative;
+  }
+
+.ndas{
+  max-width: 500px;
+}
+
+.container1{
+  margin-top: 20px;
+}

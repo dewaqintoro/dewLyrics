@@ -1,0 +1,22 @@
+.form-control-borderless {
+  border: none;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+div.card-body.row.no-gutters.align-items-center{
+  padding: 0px;
+}
+
+.btn-lg.btn-cari{
+  padding: 4px 14px;
+  margin-right: 5px;
+}
+
+.btn-lg.btn-cari:hover{
+  transform: scale(0.96);
+}
